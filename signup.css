@@ -1,0 +1,35 @@
+* {
+    margin : 0px;
+    position : 0px;
+    box-sizing : border-box;
+}
+
+.sec {
+    justify-content : end;
+}
+
+img {
+    margin-top : 100px;
+}
+
+button {
+    width : 350px;
+    height : 35px;
+    background-color : rgb(226, 224, 224);
+    border-radius : 10px;
+    margin-bottom : 15px;
+    padding : 10px 10px 10px 10px;
+}
+
+button:hover {
+    background-color : grey;
+    cursor : grabbing;
+}
+
+.one {
+    margin-bottom : 15px;
+}
+
+body {
+    background-image: url("gif2.png");
+}
